@@ -13,7 +13,15 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="images/swirl.jpg?raw=true"/>
+<img src="images/Swirl.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/J Cole-2.jpg?raw=true"/>
+
+[Project 3 Title](http://example.com/)
+<img src="images/Dora.jpg?raw=true"/>
+
+
 
 ---
 

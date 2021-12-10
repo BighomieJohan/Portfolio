@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### My creative works
 
-[Project 1 Title](/sample_page)
+[Galaxy Cat](/sample_page)
 <img src="images/GalaxyCat.jpg?raw=true"/>
 
 ---

@@ -24,6 +24,9 @@
 [Project 3 Title](http://example.com/)
 <img src="images/CoolRetroCollage.jpg?raw=true"/>
 
+
+[Project 3 Title](http://example.com/)
+<img src="images/3dPopOut.jpg?raw=true"/>
 ---
 
 ### Category Name 2

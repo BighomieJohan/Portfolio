@@ -21,7 +21,8 @@
 [Project 3 Title](http://example.com/)
 <img src="images/Earthday.jpg?raw=true"/>
 
-
+[Project 3 Title](http://example.com/)
+<img src="images/CoolRetroCollage.jpg?raw=true"/>
 
 ---
 
